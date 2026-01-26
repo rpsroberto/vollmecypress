@@ -1,3 +1,4 @@
+//le
 import { fakerPT_BR as faker } from '@faker-js/faker';
 describe('Página de cadastro', () => {
     beforeEach(() => {
