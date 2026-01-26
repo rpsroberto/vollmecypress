@@ -9,10 +9,10 @@
             "telefone": "(123) 456-7890",
             "imagem": "img123.jpg",
             "cep": 12345678,
-            "rua": "Rua das Flores",
+            "rua": "Rua Castelo Branco",
             "numero": 123,
             "complemento": "apto 101",
-            "estado": "São Paulo"
+            "estado": "Ceará"
         },
         {
             "nome": "Carlos Santos",
@@ -23,10 +23,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Padre Cícero",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Maria Silva",
@@ -37,10 +37,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Leão XIII",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "José Santos",
@@ -51,10 +51,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Moura Lins",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Ana Souza",
@@ -65,10 +65,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Pio X",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Pedro Oliveira",
@@ -79,10 +79,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Dom Luís",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Fernanda Costa",
@@ -93,10 +93,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Leão XIII",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Rafael Almeida",
@@ -107,10 +107,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Leão Sampaio",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Carla Rodrigues",
@@ -121,10 +121,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Nova",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Marcos Santos",
@@ -135,10 +135,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. XII",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Cristina Lima",
@@ -149,10 +149,10 @@
             "telefone": "(987) 654-3210",
             "imagem": "img456.jpg",
             "cep": 98765432,
-            "rua": "Av. Principal",
+            "rua": "Av. Princesa Isabel",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         },
         {
             "nome": "Fábio Oliveira",
@@ -166,7 +166,7 @@
             "rua": "Av. Principal",
             "numero": 456,
             "complemento": "casa",
-            "estado": "Rio de Janeiro"
+            "estado": "Ceará"
         }
     ]
 }
