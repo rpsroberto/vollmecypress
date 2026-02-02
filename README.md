@@ -1,4 +1,4 @@
-# 🧪 Curso de Testes Automatizados e Quality Assurance com Cypress
+# 🧪Testes Automatizados com Cypress
 
 Este repositório faz parte do curso de **Testes e Quality Assurance (QA)**, com foco em **automação de testes end-to-end (E2E)** utilizando o **Cypress**, integração contínua e boas práticas modernas de qualidade de software.
 
